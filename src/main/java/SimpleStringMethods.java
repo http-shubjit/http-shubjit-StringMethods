@@ -25,6 +25,7 @@ public class SimpleStringMethods {
      */
     public char getCharacterAtIndex(String s, int n){
         return s.charAt(n);
+        
     }
 
     /**
